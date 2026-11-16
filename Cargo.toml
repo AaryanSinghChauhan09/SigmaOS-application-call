@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-application-call"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS application-call component"
+
+[lib]
+name = "application_call"
+path = "src/lib.rs"
